@@ -5,7 +5,7 @@
 
 <!-- Typing effect -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monaco&pause=1000&color=1E90FF&center=true&width=435&lines=Always+learning+new+things%F0%9F%92%BB;IMS+Student%F0%9F%92%A1;React+%7C+Tauri+%7C+SQL+%7C+Rust%E2%9A%99%EF%B8%8F" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monaco&pause=1000&color=FFFFFF&center=true&width=435&lines=Always+learning+new+things;IMS+Student%F0%9F%92%A1;React+%7C+Tauri+%7C+SQL+%7C+Rust%E2%9A%99%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
 
 ---
