@@ -15,7 +15,7 @@
 ---
 
 <h1 align="center">
-  🚀 About Me
+  👤 About Me
 </h1>
 <ul align="left">
   <li> 🚀Interested in Software development • Sports • Music</li>
