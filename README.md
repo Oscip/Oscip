@@ -1,16 +1,22 @@
 <!-- Cool Header -->
-[<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hey,%20I'm%20Oscar!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>](https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:003300&height=300&text=Hey,%20I%27m%20Oscar&section=header&reversal=false)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:003300&height=200&section=header&text=Hey,%20I'm%20Oscar!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
 
 <h3 align="center">💻 A passionate developer from Switzerland</h3>
 
 <!-- Typing effect -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monaco&pause=1000&color=FFFFFF&center=true&width=435&lines=Always+learning+new+things;IMS+Student%F0%9F%92%A1;React+%7C+Tauri+%7C+SQL+%7C+Rust%E2%9A%99%EF%B8%8F" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monaco&pause=1000&color=00FF00&center=true&width=435&lines=Always+learning+new+things;IMS+Student;React+%7C+Tauri+%7C+SQL+%7C+Rust" alt="Typing SVG" />
+</a>
+
 </p>
 
 ---
 
-# 🚀 About Me
+<h1 align="center">
+  🚀 About Me
+</h1>
 <ul align="left">
   <li> 🚀Interested in Software development • Sports • Music</li>
   <li>📍 Winterthur, Switzerland</li>
@@ -20,10 +26,14 @@
 </ul>
 
 
-
 ---
 
-# 🛠 Tech Stack
+
+<h1 align="center">
+  🛠 Tech Stack
+</h1>
+
+
 <p align="center">
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="48" height="48" alt="Arduino"/></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS"/></a>
@@ -51,26 +61,37 @@
   <a href="https://tauri.app/" target="_blank">
     <img src="https://cdn.simpleicons.org/tauri/24C8DB" width="48" height="48" alt="Tauri" style="background-color:#1A1A1A; padding:8px; border-radius:8px;"/>
   </a>
-
-
-
-
-
 </p>
 
 
 
 ---
 
-# 📊 GitHub Stats
+<h1 align="center">
+  📊 GitHub Stats
+</h1>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oscip&show_icons=true&theme=tokyonight&hide_border=true" alt="oscip stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscip&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" alt="oscip langs" /> 
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api?username=oscip&show_icons=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&bg_color=000000" 
+       alt="oscip stats" />
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=oscip&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=000000" 
+       alt="oscip langs" /> 
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oscip&theme=tokyonight&hide_border=true" alt="oscip streak" /> 
+  <img height="180em" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=oscip&hide_border=true&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF&stroke=FFFFFF&background=000000" 
+       alt="oscip streak" /> 
 </div>
 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Oscip/Oscip/output/github-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+
+
 <!-- Cool Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:003300&height=100&section=footer" width="100%"/>
+
