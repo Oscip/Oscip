@@ -14,7 +14,7 @@
 <ul align="left">
   <li> 🚀Interested in Software development • Sports • Music</li>
   <li>📍 Winterthur, Switzerland</li>
-  <li>🔭 Currently working on my <a href="https://github.com/Oscip/personal-study-app">personal study app</a></li>
+  <li>🔭 Currently working on my personal <a href="https://github.com/Oscip/personal-study-app">study app</a></li>
   <li>🌱 Exploring <b>Tauri</b> for cross-platform apps</li>
   <li>⚡ Fun fact: I love F1🏎️</li>
 </ul>
@@ -48,7 +48,14 @@
   <a href="https://www.rust-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=rust&theme=dark" width="48" height="48" alt="Rust"/></a>
   <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" alt="Spring"/></a>
   <!-- Tauri (manual, using simple-icons) -->
-  <a href="https://tauri.app/" target="_blank"><img src="https://cdn.simpleicons.org/tauri/FFFFFF/000000" width="48" height="48" alt="Tauri"/></a>
+  <a href="https://tauri.app/" target="_blank">
+    <img src="https://cdn.simpleicons.org/tauri/24C8DB" width="48" height="48" alt="Tauri" style="background-color:#1A1A1A; padding:8px; border-radius:8px;"/>
+  </a>
+
+
+
+
+
 </p>
 
 
@@ -56,14 +63,14 @@
 ---
 
 # 📊 GitHub Stats
-<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; justify-items: center;">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oscip&show_icons=true&theme=tokyonight&hide_border=true" alt="oscip stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscip&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" alt="oscip langs" /> 
-</div>
+</p>
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oscip&theme=tokyonight&hide_border=true" alt="oscip streak" /> 
 </div>
 
-<!-- Footer -->
+<!-- Cool Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>
