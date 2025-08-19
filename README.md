@@ -1,5 +1,5 @@
 <!-- Cool Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hey👋,%20I'm%20Oscar!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hey,%20I'm%20Oscar!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <h3 align="center">💻 A passionate developer from Switzerland</h3>
 
@@ -10,15 +10,15 @@
 
 ---
 
-- 🔭 I’m currently working on [my personal study app](https://github.com/Oscip/personal-study-app)  
-- 🌱 I’m currently learning **Tauri**  
-- ⚡ Fun fact: I love mixing tech + creativity 🎨  
+### 🚀 About Me
+- 🔭 Currently working on my [personal study app](https://github.com/Oscip/personal-study-app)  
+- 🌱 Exploring **Tauri** for cross-platform apps  
+- ⚡ Fun fact: I love mixing **tech + creativity** 🎨  
 
 ---
 
-<h3 align="center">🛠 Languages and Tools:</h3>
+<h3 align="center">🛠 Languages & Tools</h3>
 <p align="center"> 
-  <!-- Tools row -->
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
@@ -29,22 +29,13 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats:</h3>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oscip&show_icons=true&theme=radical" alt="oscip stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscip&show_icons=true&layout=compact&theme=radical" alt="oscip langs" />
-</p>
+<h3 align="center">📊 GitHub Stats</h3>
+<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; justify-items: center;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oscip&show_icons=true&theme=tokyonight&hide_border=true" alt="oscip stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscip&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" alt="oscip langs" /> 
+</div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oscip&theme=radical" alt="oscip streak" />
-</p>
-
----
-
-<h3 align="center">📈 Contribution Graph</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oscip&theme=tokyo-night" alt="oscip activity graph" />
-</p>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oscip&theme=tokyonight&hide_border=true" alt="oscip streak" /> 
 
 ---
 
