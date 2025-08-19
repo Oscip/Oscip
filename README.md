@@ -1,7 +1,6 @@
 <!-- Cool Header -->
-[<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hey,%20I'm%20Oscar!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-](https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:003300&height=300&text=Hey,%20I%27m%20Oscar&section=header&reversal=false
-)
+[<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hey,%20I'm%20Oscar!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>](https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:003300&height=300&text=Hey,%20I%27m%20Oscar&section=header&reversal=false)
+
 <h3 align="center">💻 A passionate developer from Switzerland</h3>
 
 <!-- Typing effect -->
@@ -11,14 +10,20 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently working on my [personal study app](https://github.com/Oscip/personal-study-app)  
-- 🌱 Exploring **Tauri** for cross-platform apps  
-- ⚡ Fun fact: I love mixing **tech + creativity** 🎨  
+# 🚀 About Me
+<ul align="left">
+  <li> 🚀Interested in Software development • Sports • Music</li>
+  <li>📍 Winterthur, Switzerland</li>
+  <li>🔭 Currently working on my <a href="https://github.com/Oscip/personal-study-app">personal study app</a></li>
+  <li>🌱 Exploring <b>Tauri</b> for cross-platform apps</li>
+  <li>⚡ Fun fact: I love F1🏎️</li>
+</ul>
+
+
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 <p align="center">
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="48" height="48" alt="Arduino"/></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS"/></a>
@@ -50,7 +55,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+# 📊 GitHub Stats
 <div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; justify-items: center;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oscip&show_icons=true&theme=tokyonight&hide_border=true" alt="oscip stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscip&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" alt="oscip langs" /> 
