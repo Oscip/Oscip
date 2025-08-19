@@ -35,8 +35,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscip&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" alt="oscip langs" /> 
 </div>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oscip&theme=tokyonight&hide_border=true" alt="oscip streak" /> 
-
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oscip&theme=tokyonight&hide_border=true" alt="oscip streak" /> 
+</div>
 ---
 
 <!-- Fun GIF Section -->
@@ -48,4 +49,4 @@
 ---
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>
