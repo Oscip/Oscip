@@ -81,13 +81,13 @@
        src="https://github-readme-stats.vercel.app/api/top-langs?username=oscip&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=000000" 
        alt="oscip langs" /> 
 </p>
-
+<!--  
 <div align="center">
   <img height="180em" 
        src="https://github-readme-streak-stats.herokuapp.com/?user=oscip&hide_border=true&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF&stroke=FFFFFF&background=000000" 
        alt="oscip streak" /> 
 </div>
-
+-->
 <!-- Snake animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Oscip/Oscip/output/github-snake-dark.svg" alt="Snake animation"/>
